@@ -17,24 +17,69 @@
       Service
     </a>
   </li>
-  <li>Layout (gerenciamento de interface e View)</li>
+  <li>
+    <a href="https://developer.android.com/guide/topics/ui/declaring-layout.html?hl=pt-br" target="_blank">
+      Layout
+      </a>
+     (gerenciamento de interface e View)
+  </li>
   <li>Recursos:
     <ul>
-        <li>BroadcastReceiver</li>      
-        <li>Notification</li>
+        <li>
+          <a href="https://developer.android.com/guide/components/broadcasts.html" target="_blank">
+            BroadcastReceiver
+           </a>
+        </li>      
+        <li>
+          <a href="https://developer.android.com/guide/topics/ui/notifiers/notifications.html?hl=pt-br" target="_blank">
+            Notification
+          </a>
+        </li>
         <li>HTTPConnect</li>
-        <li>AlarmManager</li>
-        <li>Handler</li>
-        <li>Câmera</li>
-        <li>GPS</li>
-        <li>Mapas</li>
-        <li>SMS</li>
+        <li>
+          <a href="https://developer.android.com/reference/android/app/AlarmManager.html" target="_blank">
+            AlarmManager
+           </a>
+        </li>
+        <li>
+          <a href="https://developer.android.com/reference/android/os/Handler.html" target="_blank">
+            Handler
+           </a>
+        </li>
+        <li>
+          <a href="https://developer.android.com/guide/topics/media/camera.html?hl=pt-br" target="_blank">
+            Câmera
+          </a>
+        </li>
+        <li>
+          <a href="https://developers.google.com/maps/documentation/android-api/location?hl=pt-br" target="_blank">
+            GPS
+          </a>
+        </li>
+        <li>
+          <a href="https://developers.google.com/maps/documentation/android-api/?hl=pt-br" target="_blank">
+            Mapas
+          </a>
+        </li>
+        <li>
+          <a href="https://developer.android.com/reference/android/telephony/gsm/SmsManager.html" target="_blank">
+            SMS
+          </a>
+        </li>
         <li>Áudio</li>
-        <li>Content Provider</li>
+        <li>
+          <a href="https://developer.android.com/guide/topics/providers/content-providers.html?hl=pt-br" target="_blank">
+            Content Provider
+          </a>
+      </li>
         <li>Entrada e Saída</li>      
      </ul>
    </li>
-  <li>Banco de Dados SQLite</li>
+  <li>Banco de Dados 
+    <a href="https://developer.android.com/training/basics/data-storage/databases.html?hl=pt-br#DefineContract" target="_blank">
+      SQLite
+     </a>
+  </li>
   <li>Aplicações Hibridas</li>
 </ul>
 
