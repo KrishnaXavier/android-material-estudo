@@ -30,5 +30,5 @@
 <div>Este material tem como foco os conceitos teoricos básico de Android. O material tem como base a 
 <a href="https://developer.android.com/index.html?hl=pt-br"  target="_blank"> documentação oficial</a>.
 </div>
-
+<p>
 <div>Para quem tem interesse em conhecer a plataforma de desenvolvimento oficial do Android pode instalar o <a href="https://developer.android.com/studio/index.html?hl=pt-br" target="_blank"> Android Studio</a>, a instalação pode demorar algumas horas e vai ocupar alguns gigas em seus HD.</div>
