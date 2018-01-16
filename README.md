@@ -3,7 +3,20 @@
 <ul>
   <a href="#intro"><li>Conceitos iniciais.</li></a>
   <li>Plataforma e ambiente de desenvolvimento.</li>
-  <li>Manifest, Activity, Intent, Service</li>
+  <li>
+    <a href="https://developer.android.com/guide/topics/manifest/manifest-intro.html?hl=pt-br" target="_blank">
+      Manifest, 
+    </a>
+    <a href="https://developer.android.com/guide/topics/manifest/activity-element.html" target="_blank">
+      Activity, 
+    </a>
+    <a href="https://developer.android.com/guide/components/intents-filters.html?hl=pt-br" target="_blank">
+      Intent, 
+    </a>
+    <a href="https://developer.android.com/guide/components/services.html?hl=pt-br" target="_blank">
+      Service
+    </a>
+  </li>
   <li>Layout (gerenciamento de interface e View)</li>
   <li>Recursos:
     <ul>
@@ -32,7 +45,8 @@
 </div>
 <p>
 <div>Para quem tem interesse em conhecer a plataforma de desenvolvimento oficial do Android pode instalar o <a href="https://developer.android.com/studio/index.html?hl=pt-br" target="_blank"> Android Studio</a>, a instalação pode demorar algumas horas e vai ocupar alguns gigas em seus HD.</div>
-
+<p>
+Exemplo de um CRUD desenvolvido no Android Studio que utiliza SQLite: <a href="https://github.com/KrishnaXavier/gerenciador-contatos" target="_blank">ver projeto</a>
 ## O que é o Android?
 Android é uma plataforma de desenvolvimento aberta voltada para dispositivos móveis criada pela Google. Todas as aplicações desenvolvidas para essa plataforma foram criadas com a linguagem Java. 
 <p>
@@ -86,4 +100,9 @@ Android 6.0 Marshmallow
 Android 7.0 Nougat
 
 Android 8.0 Oreo
+</div>
+
+## Ambiente de Desenvolvimento (em construção).
+<div id="amb-dev>
+Recomendo instalar e criar um projeto simples no Android Studio.
 </div>
