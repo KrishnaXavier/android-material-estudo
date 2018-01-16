@@ -1,7 +1,7 @@
 # Material para estudo de Android (dispositivo móveis)
 
 <ul>
-  <li>Conceitos iniciais.</li>
+  <a href="#intro"><li>Conceitos iniciais.</li></a>
   <li>Plataforma e ambiente de desenvolvimento.</li>
   <li>Manifest, Activity, Intent, Service</li>
   <li>Layout (gerenciamento de interface e View)</li>
@@ -26,7 +26,7 @@
 </ul>
 
 # Introdução
-
+<div id="intro"></div>
 <div>Este material tem como foco os conceitos teoricos básico de Android. O material tem como base a 
 <a href="https://developer.android.com/index.html?hl=pt-br"  target="_blank"> documentação oficial</a>.
 </div>
@@ -51,3 +51,38 @@ O Android SDK é uma ferramenta de desenvolvimento que disponibiliza um conjunto
   <li>Bluetooth, EDGE, 3G, e WiFi (dependente de hardware).</li>
   <li>Rico ambiente de desenvolvimento , incluindo um emulador de dispositivo,ferramentas de depuração, memória e performance.</li>
 </ul>
+
+## O que o Linux tem haver com Android?
+O Android foi projetado em cima da versão 2.6 do kernel do Linux para os serviços centrais do sistema, tais como segurança, gestão de memória, gestão de processos, etc. O kernel também atua como uma camada de abstração entre o hardware e o resto do software.
+
+## Historia do Android Studio.
+Há algum tempo atrás a ferramenta de desenvolvimento Eclipse com o plugin ADT focado para o desenvolvimento Android (junto com o Android SDK), deixou de ser a ferramenta de desenvolvimento oficial para Android.
+<p>
+Agora o Google adotou como ferramenta oficial de desenvolvimento o Android Studio (baseada e inspirada na ferramenta IntelliJ IDEA) , onde podemos desenvolver nossas aplicações para Android utilizando a linguagem de programação Java.
+  
+## Versões do Android.
+Android 1.0
+
+Android 1.5 Cupcake
+
+Android 1.6 Donut
+
+Android 2.0 Eclair
+
+Android 2.3 Gingerbread
+
+Android 3.0 Honeycomb
+
+Android 4.0 Ice Cream Sandwich
+
+Android 4.1 Jelly Bean
+
+Android 4.4 Kitkat
+
+Android 5.0 Lollipop
+
+Android 6.0 Marshmallow
+
+Android 7.0 Nougat
+
+Android 8.0 Oreo
