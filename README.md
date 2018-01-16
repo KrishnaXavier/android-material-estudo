@@ -25,7 +25,7 @@
   <li>Aplicações Hibridas</li>
 </ul>
 
-<div id="intro">
+<div id="intro"></div>
 # Introdução
 <div>Este material tem como foco os conceitos teoricos básico de Android. O material tem como base a 
 <a href="https://developer.android.com/index.html?hl=pt-br"  target="_blank"> documentação oficial</a>.
@@ -86,4 +86,3 @@ Android 6.0 Marshmallow
 Android 7.0 Nougat
 
 Android 8.0 Oreo
-</div>
